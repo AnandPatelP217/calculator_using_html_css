@@ -1,0 +1,48 @@
+body{
+background-color: brown;
+}
+#cal{
+color: #E6E6FA ;
+font-size: 45px;
+font-weight: bold;
+border-radius: 35px;
+}
+td {
+background-color: black;
+padding: 5px;
+border-radius: 15px;
+}
+.btn{
+font-size: 24px;
+color: white;
+padding: 25px;
+background-color: darkorange;
+border-radius: 35px;
+}
+.btn:hover{
+font-size: 29px;
+color: white;
+padding: 25px;
+background-color: brown;
+border-radius: 35px;
+}
+#display1{
+padding: 25px;
+font-size: 24px;
+
+}
+.cle{
+background-color: orange;
+color: white ;
+font-size: 45px;
+font-weight: bold;
+border-radius: 35px;
+text-align:center;
+}
+.cle:hover{
+font-size: 29px;
+color: white;
+padding: 25px;
+background-color: brown;
+border-radius: 35px;
+}
